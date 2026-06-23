@@ -21,3 +21,6 @@ A content-based movie recommendation system built using TF-IDF vectorization and
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+- Live Demo:
+https://your-app-url.streamlit.app
