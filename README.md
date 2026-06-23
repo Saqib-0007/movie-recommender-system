@@ -23,4 +23,4 @@ pip install -r requirements.txt
 streamlit run app.py
 
 - Live Demo:
-https://your-app-url.streamlit.app
+https://movie-recommender-system-anxyfappao9haenng5bcxpr.streamlit.app/
