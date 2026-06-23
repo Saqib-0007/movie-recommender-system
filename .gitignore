@@ -1,0 +1,12 @@
+venv/
+.venv/
+
+__pycache__/
+*.pyc
+
+clean_movies.csv
+data/
+
+.ipynb_checkpoints/
+
+.envgit 
